@@ -57,7 +57,7 @@ client.on("guildMemberAdd", member => {
 
   channel.sendEmbed(embed);
 
-  client.login("NzU5NTA4NDc5NTkyNDk3MTcy.X2-hZA.ErIKsL2D-ArHVex4trHmZNtuWDQ");
+  client.login("NzU0NjExNTIyMTUxNTE0MjEz.X13Qvg.TZqawdHpfEcV8LIy58fImZP9m6s");
 });
 
 //////////////////////
